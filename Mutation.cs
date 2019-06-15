@@ -380,6 +380,7 @@
             }
             catch { }
         }
+        //https://github.com/GabTeix
         public static void IfInliner(MethodDef method)
         {
             Local local = new Local(method.Module.ImportAsTypeSig(typeof(int)));
