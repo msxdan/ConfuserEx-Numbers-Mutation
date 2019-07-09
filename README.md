@@ -4,4 +4,4 @@ Preview of numbers mutation
 
 How to add in confuser ??
 
-![Preview](https://i.imgur.com/Qoqvmd4.png)
+![Preview](https://i.imgur.com/X94sjEq.png)
